@@ -1,0 +1,19 @@
+# Application Directory
+# cask_args appdir: '/Applications:'
+
+tap 'homebrew/bundle'
+tap 'homebrew/cask'
+tap 'homebrew/core'
+tap 'homebrew/cask-fonts'
+
+brew 'bat'
+brew 'git'
+brew 'wget'
+brew 'openssl'
+brew 'zsh'
+brew 'zsh-autosuggestions'
+brew 'zsh-syntax-highlighting'
+brew 'node'
+brew 'yarn'
+brew 'neovim'
+brew 'rbenv'  

@@ -7,8 +7,8 @@ export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/b
 
 # BEGIN SNIPPET: Platform.sh CLI configuration
 HOME=${HOME:-'/Users/nmishare'}
-export PATH="$HOME/"'.platformsh/bin':"$PATH"
-if [ -f "$HOME/"'.platformsh/shell-config.rc' ]; then . "$HOME/"'.platformsh/shell-config.rc'; fi # END SNIPPET
+# export PATH="$HOME/"'.platformsh/bin':"$PATH"
+# if [ -f "$HOME/"'.platformsh/shell-config.rc' ]; then . "$HOME/"'.platformsh/shell-config.rc'; fi # END SNIPPET
 
 alias platform="~/.platformsh/bin/platform"
 

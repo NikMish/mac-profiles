@@ -28,6 +28,7 @@ cask 'adobe-creative-cloud'
 cask 'microsoft-outlook'
 cask 'microsoft-word'
 cask 'microsoft-excel'
+cask 'microsoft-teams'
 cask 'microsoft-powerpoint'
 cask 'lando'
 cask 'appzapper'
@@ -43,7 +44,7 @@ cask 'google-chrome'
 cask 'slack'
 cask 'transmission'
 cask 'ultimaker-cura'
-
+cask 'browserstacklocal'
 
 
 # Fonts

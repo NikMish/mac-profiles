@@ -45,6 +45,7 @@ cask 'slack'
 cask 'transmission'
 cask 'ultimaker-cura'
 cask 'browserstacklocal'
+cask 'postman'
 
 
 # Fonts
